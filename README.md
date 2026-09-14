@@ -4,6 +4,10 @@
 
 Jhon Flórez
 
+## Asignatura
+
+Estructura de Datos
+
 ## Descripción del taller
 
 Este taller contiene ejercicios realizados en Java sobre arreglos, matrices y ArrayList.
